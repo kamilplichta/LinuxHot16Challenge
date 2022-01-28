@@ -1,0 +1,64 @@
+# AUTOR: KAMIL PLICHTA
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. help
+# Opis... - wyświetla nam wszystkie polecenia w Linuxie
+
+# 2. ls
+# Opis... - pokazuje nam zawartośc katalogu
+
+# 3. pwd
+# Opis... - pokazuje nam katalog w którym jesteśmy
+
+# 4. cd
+# Opis... - zmieniamy katalog
+
+# 5. rmdir
+# Opis... - usuwamy katalog
+
+# 6. mkdir
+# Opis... - tworzymy nowy katalog
+
+# 7. cat
+# Opis... - edytowanie tekstu
+
+# 8. rm nazwa_pliku
+# Opis... - usuwamy plik
+
+# 9. man
+# Opis... - pokazuje nam pomoc do programu
+
+# 10. mv
+# Opis... - przenosimy plik lub zmieniamy jego nazwę
+
+# 11. cp
+# Opis... - kopiujemy plik
+
+# 12. mvdir
+# Opis... - przenosimy katalog lub zmieniamy jego nazwę
+
+# 13. logout
+# Opis... - wylogowanie się
+
+# 14. touch nazwa_pliku
+# Opis... - tworzy pusty plik
+
+# 15. cd ..
+# Opis... - wyjście z katalogu
+
+# 16. lp nazwa_pliku
+# Opis... - drukowanie pliku
+
+
+
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
